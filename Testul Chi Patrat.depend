@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1545771089 source:c:\users\user\desktop\proiectpp\proiectpp\testul chi patrat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546470190 source:c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\testul chi patrat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cod.h"
+
+1546470190 c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\testul chi patrat\cod.h
+
+1546595697 source:c:\users\user\desktop\proiectpp\proiectpp\criptare & decriptare\testul chi patrat\cod.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
